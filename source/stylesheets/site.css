@@ -5,11 +5,3 @@ body {
   font-family: 'NowRegular''Zilla Slab', serif;
   background-color: #fafafa;
 }
-
-a {
-  color: rgba(#000, 0.7);
-
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
-  }
