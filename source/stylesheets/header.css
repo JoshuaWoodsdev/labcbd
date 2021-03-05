@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  margin: 50px;
+
+}
+
+#title1{
+  font-size: 15vh;
+}
+
+#hero1{
+  background-image: url('/images/crystalweed-cannabis-sEWqMCemlVA-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+
+}
+#hero2{
+  text-align: left;
+  font-size: 5vh;
+}

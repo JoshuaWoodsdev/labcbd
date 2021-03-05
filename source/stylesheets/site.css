@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  color: #333;
+  font-size: 18px;
+  font-family: 'NowRegular''Zilla Slab', serif;
+  background-color: #fafafa;
+}
+
+a {
+  color: rgba(#000, 0.7);
+
+  &:focus,
+  &:hover {
+    color: rgba(#000, 0.6);
+  }
