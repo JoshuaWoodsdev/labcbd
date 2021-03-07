@@ -5,3 +5,7 @@ body {
   font-family: 'NowRegular''Zilla Slab', serif;
   background-color: #fafafa;
 }
+
+p{
+  font-size: 18px;
+}
