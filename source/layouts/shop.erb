@@ -5,13 +5,12 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title><%= current_page.data.title || "LABCBD" %></title>
+    <title><%= current_page.data.title || "LABCBDSHOP" %></title>
     <!--stylesheets-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
     <%= stylesheet_link_tag "site" %>
     <%= stylesheet_link_tag "header" %>
     <%= stylesheet_link_tag "nav" %>
-    <%= stylesheet_link_tag "contentintro" %>
     <%= stylesheet_link_tag "footer" %>
     <%= javascript_include_tag "site" %>
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -20,7 +19,6 @@
   <body>
     <%= partial "partials/navbar" %>
     <%= partial "partials/header" %>
-    <%= partial "partials/contentintro" %>
     <%= yield %>
   </body>
 </html>
