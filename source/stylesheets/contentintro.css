@@ -1,9 +1,18 @@
 #introtext{
-text-align: left; 
+text-align: left;
 }
 
 
 #datoloop{
   text-align: left;
-  height: 600px;
+  height: 500px;
+  background-image: url("");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h4{
+  font-size: 20px;
+  font-weight: bold;
 }
