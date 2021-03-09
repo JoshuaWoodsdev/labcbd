@@ -1,0 +1,8 @@
+{
+  "name": "Middleman example DatoCMS",
+  "templateId": "1",
+  "deploymentType": "static",
+  "datocmsApiTokenEnvName": "663e5cc97e141453a67a87c2048a7d",
+  "buildCommand": "bundle exec middleman build",
+  "buildDirectory": "build"
+}
